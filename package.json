@@ -1,0 +1,12 @@
+{
+  "name": "@yq979292/fe-interview-100-wiki",
+  "version": "1.0.0",
+  "description": "该仓库有很多的分支，可以通过下面的做法获取所有分支",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yq979292/fe-interview-100-wiki.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
